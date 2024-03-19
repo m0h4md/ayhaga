@@ -149,3 +149,12 @@ section .animate{
 .sec-5.show-animate .images img {
     transform: translate(0);
 }
+.center {
+    display: flex;
+    justify-content: center;
+}
+.center ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
